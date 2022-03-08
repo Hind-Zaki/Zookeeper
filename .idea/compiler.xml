@@ -32,6 +32,17 @@
       <module name="Zookeeper.Topics-Integers_in_action-Time_difference.main" target="11" />
       <module name="Zookeeper.Topics-Integers_in_action-Underscore.main" target="11" />
       <module name="Zookeeper.Topics-Integers_in_action-Unsigned_integers.main" target="11" />
+      <module name="Zookeeper.Topics-Introduction_to_MutableList-Equal_lists.main" target="11" />
+      <module name="Zookeeper.Topics-Introduction_to_MutableList-Initializing_a_list.main" target="11" />
+      <module name="Zookeeper.Topics-Introduction_to_MutableList-Initializing_a_mutable_list_of_characters.main" target="11" />
+      <module name="Zookeeper.Topics-Introduction_to_MutableList-Initializing_a_mutable_list_of_integers.main" target="11" />
+      <module name="Zookeeper.Topics-Introduction_to_MutableList-Initializing_a_mutable_list_of_longs.main" target="11" />
+      <module name="Zookeeper.Topics-Introduction_to_MutableList-Printing_the_last_element.main" target="11" />
+      <module name="Zookeeper.Topics-Introduction_to_MutableList-Right_ways_to_create_mutable_lists.main" target="11" />
+      <module name="Zookeeper.Topics-Introduction_to_MutableList-Swap.main" target="11" />
+      <module name="Zookeeper.Topics-Introduction_to_MutableList-The_first_element_of_a_list.main" target="11" />
+      <module name="Zookeeper.Topics-Introduction_to_MutableList-The_last_element_of_a_list.main" target="11" />
+      <module name="Zookeeper.Topics-Introduction_to_MutableList-Theory.main" target="11" />
       <module name="Zookeeper.Topics-Overview_of_the_basic_program-Find_a_keyword.main" target="11" />
       <module name="Zookeeper.Topics-Overview_of_the_basic_program-I_like_Kotlin.main" target="11" />
       <module name="Zookeeper.Topics-Overview_of_the_basic_program-Name_of_an_entry_point.main" target="11" />

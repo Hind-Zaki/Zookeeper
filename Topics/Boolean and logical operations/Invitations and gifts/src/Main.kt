@@ -24,6 +24,6 @@ fun main() {
     val invitations = readln().toBoolean()
     val gifts = readln().toBoolean()
 
-    println(if (invitations && gifts) true else false)
+    println(invitations && gifts)
 
 }

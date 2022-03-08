@@ -1,4 +1,4 @@
-import java.util.Scanner
+import java.util.*
 
 fun main() {
 
@@ -24,7 +24,7 @@ fun main() {
 
     // 3-
 
-    readLine()!!.split(" +".toRegex())?.forEach { println(it) }
+    readLine()!!.split(" +".toRegex()).forEach { println(it) }
 
     println("-----------")
 
