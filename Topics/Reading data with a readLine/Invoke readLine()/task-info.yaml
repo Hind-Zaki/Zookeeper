@@ -1,11 +1,11 @@
 type: choice
 is_multiple_choice: false
 options:
-- text: Int
-- text: Float
 - text: String
+- text: Float
 - text: Char
 - text: Double
+- text: Int
 message_correct: Congratulations!
 message_incorrect: Incorrect solution
 files:

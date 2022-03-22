@@ -1,11 +1,11 @@
 type: choice
 is_multiple_choice: true
 options:
-- text: hello<br> false <br> 10
-- text: true<br> 10 <br> hello
+- text: fun <br> 10<br> true
 - text: hello<br> true<br> 10
 - text: 10 <br> hello <br> fun
-- text: fun <br> 10<br> true
+- text: hello<br> false <br> 10
+- text: true<br> 10 <br> hello
 - text: 10<br> false<br> hello
 message_correct: Congratulations!
 message_incorrect: Incorrect solution
